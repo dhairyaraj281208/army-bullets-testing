@@ -1,2 +1,2 @@
-# army-bullets-testing
-my bullets and thick walls
+# p5.play-boilerplate
+Boiler plate for p5.play
